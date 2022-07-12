@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Volley REST API</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Sale</string>
+    <string name="title_event">Sự kiện</string>
+    <string name="title_cart">Giỏ hàng</string>
+    <string name="title_notifications">Thông báo</string>
+    <string name="title_user">Tài khoản</string>
+</resources>
