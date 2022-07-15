@@ -3,12 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/VolleyRESTAPI/app/src/main/res/drawable/componet_rounded_button.xml" value="0.2935" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/VolleyRESTAPI/app/src/main/res/drawable/ic_baseline_label_24.xml" value="0.2935" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/VolleyRESTAPI/app/src/main/res/drawable/loading_shape.xml" value="0.2265" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/VolleyRESTAPI/app/src/main/res/drawable/rating_background.xml" value="0.2265" />
-        <entry key="..\:/Users/Administrator/AndroidStudioProjects/VolleyRESTAPI/app/src/main/res/layout/activity_home.xml" value="0.5" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/VolleyRESTAPI/app/src/main/res/drawable/rounded_full_color.xml" value="0.2935" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/VolleyRESTAPI/app/src/main/res/layout/activity_home.xml" value="0.4074492099322799" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/VolleyRESTAPI/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/VolleyRESTAPI/app/src/main/res/layout/anime_row_item.xml" value="0.4" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/VolleyRESTAPI/app/src/main/res/layout/fragment_home.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/VolleyRESTAPI/app/src/main/res/layout/fragment_sale.xml" value="0.5" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/VolleyRESTAPI/app/src/main/res/layout/recyclerview_hot_items_rows.xml" value="0.67" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/VolleyRESTAPI/app/src/main/res/layout/viewpager2_showads_component_13_images.xml" value="0.365625" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/VolleyRESTAPI/app/src/main/res/menu/bottom_nav_menu.xml" value="0.18802083333333333" />
       </map>
     </option>

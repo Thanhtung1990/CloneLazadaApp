@@ -40,6 +40,10 @@ public class recycleViewAdapter extends RecyclerView.Adapter<recycleViewAdapter.
         View view;
         LayoutInflater layoutInflater = LayoutInflater.from(context);
         view = layoutInflater.inflate(R.layout.anime_row_item, parent,false);
+
+        // write code to send intend here when user click each item
+
+
         return new MyViewHolder(view);
     }
 
